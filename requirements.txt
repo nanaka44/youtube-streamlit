@@ -1,12 +1,3 @@
-ComputerVisionClient
-OperationStatusCodes
-VisualFeatureTypes
-CognitiveServicesCredentials
-array
-os
-Image
-sys
-time
 streamlit
-ImageDraw
-ImageFont
+azure-cognitiveservices-vision-computervision 
+Image
